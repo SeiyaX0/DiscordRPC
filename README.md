@@ -1,4 +1,3 @@
-[![Logo](https://cdn.discordapp.com/attachments/802218008574820393/803422081105526804/image3.png)](https://drpcm.t1c.dev/)
 ## ⬇️ Scroll down for install instructions! ⬇️
 
 [![Discord](https://discordapp.com/api/guilds/716364441658327120/embed.png?style=shield)](https://discord.gg/Z7UZPR3bbW)
